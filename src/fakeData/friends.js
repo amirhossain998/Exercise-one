@@ -1,6 +1,6 @@
 var friends = [
     {
-      image:'https://www.scitecheuropa.eu/wp-content/uploads/2019/07/butter.jpg',  
+      image:'https://i.ibb.co/jGrvK69/IMG-6545.jpg',  
       name: 'Amir Hossain',
       address: '9 victor Hugo',
       phoneNumber: '+0751609276',
