@@ -25,8 +25,6 @@ const Cart = (props) => {
     return (
         <div>
             <h3>Total add friend: { cart.length}</h3>
-
-            <h3>Total add friend: {cart.length}</h3>
             <h4> Total Salary : {total}</h4>
             </div>
 
