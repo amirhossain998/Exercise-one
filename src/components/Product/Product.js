@@ -17,7 +17,8 @@ const Product = (props) => {
                 <h5>Phone Num: {phoneNumber}</h5>
                 <h5>Email : {emailAddress}</h5>
                 <p>Salary: ${salary}</p>
-                <button className="main-button" onClick = {() => props.handleAddProduct(props.product)}><FontAwesomeIcon icon={faUserPlus} /> add friend</button>
+                <button className= "main-button" onClick = {() => props.handleAddProduct(props.product)}><FontAwesomeIcon icon={faUserPlus} /> add friend</button>
+
             </div>
         </div>
     );
